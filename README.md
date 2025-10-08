@@ -144,7 +144,8 @@ Developed during the NASA Space Apps Challenge 2025 (48-hour hackathon)
 ## Project Links
 
 - **Frontend (Live):** [airwatch.health](https://www.airwatch.health/)  
-- **Project details:** [Space Apps Challenge](https://www.spaceappschallenge.org/2025/find-a-team/thunders/?tab=project0)
+- **Project details:** [Nasa Space Apps Challenge Details](https://www.spaceappschallenge.org/2025/find-a-team/thunders/?tab=project0)
+- **Demo Video:** [Demo Video here](https://drive.google.com/file/d/1wenIBjF6wWF6EAM3gaUe4VN70b1P4hv4/view?usp=sharing)
 
 ---
 
